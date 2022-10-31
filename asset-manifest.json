@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Karla/static/css/main.5354db0c.css",
+    "main.js": "/Karla/static/js/main.e4ec5571.js",
+    "static/js/787.d513dd7c.chunk.js": "/Karla/static/js/787.d513dd7c.chunk.js",
+    "index.html": "/Karla/index.html",
+    "main.5354db0c.css.map": "/Karla/static/css/main.5354db0c.css.map",
+    "main.e4ec5571.js.map": "/Karla/static/js/main.e4ec5571.js.map",
+    "787.d513dd7c.chunk.js.map": "/Karla/static/js/787.d513dd7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5354db0c.css",
+    "static/js/main.e4ec5571.js"
+  ]
+}
